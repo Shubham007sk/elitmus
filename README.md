@@ -23,7 +23,3 @@ Create and manage course data with this full stack application.
 6. Run npm install
 7. Run npm start.
 8. Navigate to the specified localhost in your browser.
-
-#### Author 
-
-Megan Katherine O'Brien | www.megankatherineobrien.com
